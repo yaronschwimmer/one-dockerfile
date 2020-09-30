@@ -1,2 +1,2 @@
-FROM rust:stretch
+FROM sles:15.2
 CMD echo hello
